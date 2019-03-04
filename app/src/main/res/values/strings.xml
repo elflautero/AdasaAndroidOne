@@ -4,4 +4,22 @@
     <string name="app_name">AdasaAndroidOne</string>
     <string name="hello_world">Hello world!</string>
 
+	<string name="tvEndereco">Endreço:</string> 
+	
+	<string-array name="strArrayTipoInter">
+		<item>Superficial</item>
+		<item>Lançamento</item>
+	</string-array>
+	
+	<string name="tvLat">Latitude:</string>
+	<string name="tvLon">Longitude:</string>
+	
+	
+	<string name="tvSituacao">Situação do Processo:</string>
+	<string name="btnText">Clique</string>
+	<string name="aaa"></string>
+	<string name="aaaa"></string>
+	
+	
+	
 </resources>
